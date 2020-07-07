@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"FC2 Health System"
+	"version"	"1.5"
+	"up_date"	"September 18th 2010"
+	"author_name"	" "
+	"author_email"	"N/A"
+	"author_url"		"N/A"
+	"info"		"Adds the FC2 style health to gmod."
+	"override"	"0"
+}
